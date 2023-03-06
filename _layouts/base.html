@@ -4,8 +4,9 @@
   {%- include head.html -%}
 
   <body>
-
+    {% if page.index != true %}
     {%- include header.html -%}
+    {% endif %}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
