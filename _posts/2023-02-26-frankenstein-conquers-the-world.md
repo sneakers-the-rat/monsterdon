@@ -3,7 +3,7 @@ layout: post
 title:  "Frankenstein Conquers The World"
 date:   2023-02-26 18:00:00 -0800
 poster: /assets/img/frankenstein-conquers-the-world.jpg
-categories: Japan Frankenstein Baragon Kaiju Giant Monsters Reporters Clinics Radiation Radioactivity Atomic Bombs Hydrogen Bombs
+tags: Japan Frankenstein Baragon Kaiju Giant Monsters Reporters Clinics Radiation Radioactivity Atomic Bombs Hydrogen Bombs
 versions:
   - name: Archive
     url: https://archive.org/details/FrankensteinConquersTheWorld
